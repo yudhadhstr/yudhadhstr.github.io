@@ -1,8 +1,8 @@
-Origin: PakdheJahat's Repo
-Label: PakdheJahat's Repo
+Origin: Reposi3
+Label: Reposi3
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: PakdheJahat's Repo - a cydia repo template
+Description: Reposi3 - a cydia repo template
